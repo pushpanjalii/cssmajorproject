@@ -1,2 +1,2 @@
 # Spotify Clone
-this is a css major project 
+This is a css major project 
